@@ -3,8 +3,8 @@ Name- Damini Patle
 
 SBID: SB20220211593
 
-remote add origin [https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693
-](https://github.com/smartinternz02/SI-GuidedProject-713452-1706715116.git)
+remote add origin [https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693]
+
 SmartInternz Profile:- [https://smartinternz.com/student-profile/feed/U0IyMDIyMDIxMTUxOA==](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIxMTU5Mw==)
 
 GDrive Demo Video:- [https://drive.google.com/drive/folders/1ab-lXRqGve0Wdx1VrZ1kjw7Zl7ZRN0tl?usp=sharing](https://drive.google.com/file/d/1Cp5WltJtqSuAlPlHve0Ut3fIGXJB_QgE/view)
